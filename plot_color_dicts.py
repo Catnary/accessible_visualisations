@@ -37,13 +37,12 @@ kelly_cmap = {'Vivid Yellow':'#FFB300',
               'Grayish Yellow':'#CEA262',
               'Medium Gray':'#817066'}
               
-#The four colors I use most often for simple plots on a white background
-my_color_map = ["#0000FF","#FF0000","#FFB300", "#803E75"]
+#The eight colors I use most often for simple plots on a white background
+color_map = ["#0000FF","#FF0000","#FFB300","#808080", "#803E75", "#FF6800", "#CEA262", "#A6BDD7"]
 
 #Plot the colors using matplotlib
 import matplotlib.pyplot as plt
 
-colour_map = my_color_map #list
 fig,ax = plt.subplots(1,figsize=(8, 1), dpi=40) 
 xdat = range(0,(len(color_map)))
 ydat = [1 for x in xdat]
