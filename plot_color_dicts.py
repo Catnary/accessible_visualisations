@@ -40,6 +40,10 @@ kelly_cmap = {'Vivid Yellow':'#FFB300',
 #The six colors I use most often for simple plots on a white background
 color_map = ["#0000FF", "#FF0000", "#FFB300", "#808080", "#803E75", "#FF6800"]
 
+# Updated for deuteranopia
+color_map1 = ["#0000FF", "#FF0000", "#FFB300", "#808080", "#803E75", "#fa8775"]
+
+
 #Plot the colors using matplotlib
 import matplotlib.pyplot as plt
 
