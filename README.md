@@ -20,25 +20,33 @@ Colour: Design & Creativity, 5:1–23.
 https://eleanormaclure.files.wordpress.com/2011/03/colour-coding.pdf
 
 
-### Online tools and guides
+### Online tools
+* #### Viz Palette
+  Tool for selecting colours for data vis. Paste in a set of colours and quickly see how they look in different chart types, and when rendered in greyscale. Includes        simulations of deuteranomaly, protanomaly, protanopia, deuteranopia.
+  https://projects.susielu.com/viz-palette
+
+* #### I Want Hue
+  Another tool for selecting datavis colours. Allows creation of palettes based on number of colours, with colourblind optimization option.
+  https://medialab.github.io/iwanthue/
+
 * #### Coblis Color Blindness Simulator 
   Tool for simulating different forms of colorblindness
   http://www.color-blindness.com/coblis-color-blindness-simulator/
 
+* #### Coolers color scheme generator
+  Free tool for generating color schemes
+  https://coolors.co
 
+
+### Articles and Guides
 * #### Three tools to help you make colorblind-friendly graphics
   Article from Northwestern University Knight Lab
   https://knightlab.northwestern.edu/2016/07/18/three-tools-to-help-you-make-colorblind-friendly-graphics/
-
 
 * #### Creating a dyslexia friendly workplace
   Dyslexia friendly style guide from the British Dyslexia Association
   https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide
 
-
-* #### Coolers color scheme generator
-  Free tool for generating color schemes
-  https://coolors.co
 
 
 * #### Color palettes for colorblindness
