@@ -41,7 +41,7 @@ kelly_cmap = {'Vivid Yellow':'#FFB300',
 color_map = ["#0000FF", "#FF0000", "#FFB300", "#808080", "#803E75", "#FF6800"]
 
 # Updated for deuteranopia (removed "#FF6800"; replaced with "#FF7F7F" pink from Boynton colors)
-color_map1 = ["#0000FF", "#FF0000", "#FFB300", "#808080", "#803E75", "#fa8775", "#FF7F7F"]
+color_map1 = ["#0000FF", "#FF0000", "#FFB300", "#808080", "#803E75", "#FF7F7F"]
 
 #Plot the colors using matplotlib
 import matplotlib.pyplot as plt
