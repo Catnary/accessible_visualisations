@@ -36,6 +36,10 @@ https://eleanormaclure.files.wordpress.com/2011/03/colour-coding.pdf
 * #### Coolers color scheme generator
   Free tool for generating color schemes
   https://coolors.co
+  
+* #### Colorblindly
+  Chrome extension for simulating color blindness.
+  https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg
 
 
 ### Articles and Guides
